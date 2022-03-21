@@ -1,6 +1,6 @@
 # S'enregistrer
 
-[L'accueil](index.html) | [Le programme](schedule.html) | [Les Orateurs](speakers.html) | [L'équipe](team.html) | [Le lieu](lieu.md)
+[L'accueil](index.html) | [Le programme](schedule.html) | [Les Orateurs](speakers.html) | [L'équipe](the-team.html) | [Le lieu](lieu.md)
 
 Vous pouvez prendre vos places au tarif préférentiel *blind bird*, valide jusqu'à ce que nous publions l'agenda de la journée. 
 
