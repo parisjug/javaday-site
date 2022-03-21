@@ -6,22 +6,18 @@
     <version position="bottom"/>
     <publishDate position="bottom"/>
 
-
     <body>
 
         <!-- -->
         <menu name="JavaDay" ref="/index.html">
             <item name="Le programme" href="schedule.html"/>
-            <item name="l'equipe" href="the-team.html"/>
-            <!--<item name="Registration infos" href="todo.html"/>-->
-            <!--<item name="Registration Form" href="https://www.eventbrite.com/e/jchateau-and-jalba-the-unofficial-unorganised-jauldalliance-tickets-191637963307"/>-->
+            <item name="Les orateurs" href="speakers.html"/>
+            <item name="S'enregistrer" href="register.html"/>
+            <item name="L'équipe" href="the-team.html"/>
+            <item name="Le lieu" href="lieu.html"/>
             <item name="Contact" href="contact.html"/>
         </menu>
         <!-- -->
 
-
     </body>
-
-
-
 </project>

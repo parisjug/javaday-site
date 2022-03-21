@@ -1,7 +1,7 @@
 # Contact
 
-[le programme](schedule.html) | [Les Orateurs](speakers.html) | [Nous rejoindre](lieu.html)
+[L'accueil](index.html) | [Le programme](schedule.html) | [Les Orateurs](speakers.html) | [S'enregistrer](register.html) | [L'équipe](the-team.html) | [Le lieu](lieu.md)
  
 [Registration infos](registrationinfo.html) | [Registration](todo.html) | [l'equipe](the-team.html)
 
-Need any assistance? Please drop us an email at [team@parisjug.org](mailto:team@parisjug.org).
+Besoin d'aide ? Vous pouvez nous envoyer un mail à l'adresse [team@parisjug.org](mailto:team@parisjug.org).

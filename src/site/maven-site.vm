@@ -53,25 +53,25 @@
 <body class="composite">
 
 	<!-- Header -->
-			<header id="header" class="alt">
-				<div class="logo"><a href="https://javaday.parisjug.org" style="height: 122px;" ><img src="images/javaday2022.svg" /></a></div>
-				<a href="#menu">&#x2630; Menu</a>
-			</header>
-
+    <header id="header" class="alt">
+        <!--
+            <div class="logo"><a href="https://javaday.parisjug.org" style="height: 122px;" ><img src="images/javaday2022.svg" /></a></div>
+        -->
+        <a href="#menu">&#x2630; Menu</a>
+    </header>
 
 <nav id="menu">
-        <!-- start -->
-        #mainMenu( $decoration.body.menus )
-        <!-- end -->
+    <!-- start -->
+    #mainMenu( $decoration.body.menus )
+    <!-- end -->
 </nav>
 
     <section id="banner">
-				<div class="inner">
-					<header>
-						<h1>Javaday</h1>
-           <h2>Le 22 Juin 2020</h2>
-						<p>Sharing is caring</p>
-				</div>
+        <div class="inner">
+            <header>
+			<h1>Paris JUG - Javaday</h1>
+            <h2>Le 22 Juin 2020</h2>
+		</div>
     </section>
     
     
