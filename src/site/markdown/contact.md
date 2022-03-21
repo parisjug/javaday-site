@@ -5,3 +5,5 @@
 [Registration infos](registrationinfo.html) | [Registration](todo.html) | [l'equipe](the-team.html)
 
 Besoin d'aide ? Vous pouvez nous envoyer un mail à l'adresse [team@parisjug.org](mailto:team@parisjug.org).
+
+ou bien via twitter [@parisjug](https://twitter.com/parisjug)
