@@ -1,5 +1,7 @@
 # JavaDay: Le futur de Java en 2022
 
+[Le programme](schedule.html) | [Les Orateurs](speakers.html) | [S'enregistrer](register.html) | [L'équipe](team.html) | [Le lieu](lieu.md)
+
 Le Paris JUG a le plaisir de vous inviter **le 22 juin 2022** à une journée de présentations sur le thème : Le futur de Java en 2022.
 
 Cette journée de veille technologique et de rencontres avec les meilleures personnalités de la communauté francophone est organisée dans un cadre de verdure aux portes de Paris : Le centre des congrès du Jardin d’Acclimatation
