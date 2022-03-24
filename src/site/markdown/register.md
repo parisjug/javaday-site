@@ -4,7 +4,7 @@
 
 Vous pouvez prendre vos places au tarif préférentiel *blind bird*, valide jusqu'à ce que nous publions l'agenda de la journée. 
 
-Grâce à la société [OXiane](https://www.oxiane.com) partenaire de toujours du [Paris JUG](https://www.parisjug.org), vous pouvez également financer vos entrées par la formation professionnelle. Merci de prendre contact à l'adresse suivante : [formation@oxiane.com](mailto:formation.oxiane.com).
+Grâce à la société [OXiane](https://www.oxiane.com) notre partenaire formation pour cet événement, vous pouvez également financer vos entrées par la formation professionnelle. Merci de prendre contact à l'adresse suivante : [formation@oxiane.com](mailto:formation.oxiane.com).
 
 Chaque entrée comprend l'accès complet à la conférence, les pauses café ainsi que le déjeuner servi dans l'espace de la conférence. 
 

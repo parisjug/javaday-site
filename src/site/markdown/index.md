@@ -32,6 +32,6 @@ Les thèmes que nous vous proposons :
 
 Parmi  les speakers que nous avons invités : Cédric Champeaux, Jean-Philippe Bempel, Jean-Michel Doudoux, Rémi Forax. L’agenda précis sera publié dans les prochains jours. 
 
-Vous pouvez réserver vos places dès à présent au tarif réduit blind bird. Ce tarif reste disponible jusqu’à la publication de l’agenda.
+Vous pouvez [réserver vos places dès à présent au tarif réduit blind bird](https://www.helloasso.com/associations/bjpc/evenements/paris-jug-s-java-day). Ce tarif reste disponible jusqu’à la publication de l’agenda.
 
-Vous pouvez également vous inscrire par la formation professionnelle, grâce à OXiane, notre partenaire de toujours. 
+Vous pouvez également vous inscrire par la formation professionnelle, grâce à [OXiane](https://www.oxiane.com/), notre partenaire formation pour cet événement. 
