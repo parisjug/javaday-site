@@ -35,3 +35,6 @@ Parmi  les speakers que nous avons invités : Cédric Champeaux, Jean-Philippe B
 Vous pouvez [réserver vos places dès à présent au tarif réduit blind bird](https://www.helloasso.com/associations/bjpc/evenements/paris-jug-s-java-day). Ce tarif reste disponible jusqu’à la publication de l’agenda.
 
 Vous pouvez également vous inscrire par la formation professionnelle, grâce à [OXiane](https://www.oxiane.com/), notre partenaire formation pour cet événement. 
+
+
+*Le logo JavaDay&trade; est utilisé avec l'autorisation d'Oracle Corp.*
