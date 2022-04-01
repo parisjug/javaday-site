@@ -1,6 +1,6 @@
 # Les Organisateurs
 
-[L'accueil](index.html) | [Le programme](schedule.html) | [Les Orateurs](speakers.html) | [S'enregistrer](register.html) | [Le lieu](lieu.md)
+[L'accueil](index.html) | [Le programme](schedule.html) | [Les orateurs](speakers.html) | [S'enregistrer](register.html) | **L'équipe** | [Le lieu](lieu.md)
 
 JavaDay au Paris JUG vous est proposé par l'équipe du Paris JUG.
 

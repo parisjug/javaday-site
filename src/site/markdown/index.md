@@ -1,6 +1,6 @@
 # JavaDay au Paris JUG: Le futur de Java en 2022
 
-[Le programme](schedule.html) | [Les Orateurs](speakers.html) | [S'enregistrer](register.html) | [L'équipe](the-team.html) | [Le lieu](lieu.md)
+**L'accueil** | [Le programme](schedule.html) | [Les orateurs](speakers.html) | [S'enregistrer](register.html) | [L'équipe](the-team.html) | [Le lieu](lieu.md)
 
 ![Paris JUG](images/LogoBJCP20150500x0200.png) ![JavaDay](images/Javaday_red.png)
 
@@ -34,7 +34,8 @@ Parmi  les speakers que nous avons invités : Cédric Champeaux, Jean-Philippe B
 
 Vous pouvez [réserver vos places dès à présent au tarif réduit blind bird](https://www.helloasso.com/associations/bjpc/evenements/paris-jug-s-java-day). Ce tarif reste disponible jusqu’à la publication de l’agenda.
 
-Vous pouvez également vous inscrire par la formation professionnelle, grâce à [OXiane](https://www.oxiane.com/), notre partenaire formation pour cet événement. 
+Vous pouvez vous inscrire par la formation professionnelle, grâce à [OXiane](https://www.oxiane.com/), notre partenaire formation pour cet événement.
 
+Les détails du parcours pédagogique se trouvent ici : https://www.oxiane.com/parcours-pedagogique-javaday-2022/. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
 
 *Le logo JavaDay&trade; est utilisé avec l'autorisation d'Oracle Corp.*

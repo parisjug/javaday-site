@@ -1,6 +1,6 @@
 # Le lieu
 
-[L'accueil](index.html) | [Le programme](schedule.html) | [Les Orateurs](speakers.html) | [S'enregistrer](register.html) | [L'équipe](the-team.html)
+[L'accueil](index.html) | [Le programme](schedule.html) | [Les orateurs](speakers.html) | [S'enregistrer](register.html) | [L'équipe](the-team.html) | **Le lieu**
 
 L'événement se tiendra au centre de congrès du Jardin d'Acclimatation, à 10 minutes à pied du métro Sablons, aux portes de Paris. 
 
