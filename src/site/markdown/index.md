@@ -23,18 +23,18 @@ Trois sessions le matin et trois l’après-midi. Nous terminerons  par un panel
 Les thèmes que nous vous proposons :
 
 - Avancées du Pattern Matching avec Amber
-- Programmation concurrente avec Loom
 - Introduction des Value Types avec Valhalla
-- Exécution de code natif avec Panama
 - Microservices avec Micronauts
+- Gestion de la mémoire avec les containers
+- Construction de vos projets avec Maven 5
 
 ![La Terrasse de la Grande Verrière](images/05_terrasse-02_red.jpg)
 
 Parmi  les speakers que nous avons invités : Cédric Champeaux, Jean-Philippe Bempel, Jean-Michel Doudoux, Rémi Forax. L’agenda précis sera publié dans les prochains jours. 
 
-Vous pouvez [réserver vos places dès à présent au tarif réduit blind bird](https://www.helloasso.com/associations/bjpc/evenements/paris-jug-s-java-day). Ce tarif reste disponible jusqu’à la publication de l’agenda.
+Nous sommes en train d'annoncer les speakers présents, un tous les deux jours. L'agenda complet sera publié le 9 Mai prochain. En attendant vous pouvez déjà [réserver vos places à tarif réduit blind bird](https://www.helloasso.com/associations/bjpc/evenements/paris-jug-s-java-day). Ce tarif réduit prendra fin lorsque notre agenda complet sera publié.
 
-Vous pouvez vous inscrire par la formation professionnelle, grâce à [OXiane](https://www.oxiane.com/), notre partenaire formation pour cet événement.
+Vous pouvez également vous inscrire par la formation professionnelle, grâce à [OXiane](https://www.oxiane.com/), notre partenaire formation pour cet événement.
 
 Les détails du parcours pédagogique se trouvent ici : https://www.oxiane.com/parcours-pedagogique-javaday-2022/. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
 
