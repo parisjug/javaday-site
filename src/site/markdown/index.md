@@ -38,4 +38,8 @@ Vous pouvez également vous inscrire par la formation professionnelle, grâce à
 
 Les détails du parcours pédagogique se trouvent ici : https://www.oxiane.com/parcours-pedagogique-javaday-2022/. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
 
+*Merci à notre partenaire media [InfoQ.fr](https://www.infoq.com/fr/) pour leur soutien dans l'organisation de cet événement.*
+
+![InfoQ FR](images/logo blanc_InfoQFR.png)
+
 *Le logo JavaDay&trade; est utilisé avec l'autorisation d'Oracle Corp.*
