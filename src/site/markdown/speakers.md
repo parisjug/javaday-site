@@ -42,7 +42,7 @@ Cédric Champeau est développeur Java chez Oracle Labs, dans l'équipe Micronau
 
 ## Sécurité en Java 17 : les nouveautés passées et à venir
 
-Plusieurs éléments de sécurité ont évolué en Java 17, et vont continuer à être mise à jour. Le Security Manager a été déprécié et va être retiré, les primitives de cryptographie ont été mises à jour. Il est à présent possible de contrôler les extensions d'une interface ou d'une classe au travers du mécanisme des _sealed types_. L'encapsulation forte des classes internes du JDK se poursuit et la sécurité de la déserialization continue d'être améliorée avec les _records_ et les filtres de déserialization, que l'on peut activer au niveau de la JVM et par API. Cette présentation vous propose de balayer ces sujets et quelques autres, afin de faire un bilan de la sécurité en Java 17.
+Plusieurs éléments de sécurité ont évolué en Java 17, et vont continuer à être mis à jour. Le Security Manager a été déprécié et va être retiré, les primitives de cryptographie ont été mises à jour. Il est à présent possible de contrôler les extensions d'une interface ou d'une classe au travers du mécanisme des _sealed types_. L'encapsulation forte des classes internes du JDK se poursuit et la sécurité de la déserialization continue d'être améliorée avec les _records_ et les filtres de déserialization, que l'on peut activer au niveau de la JVM et par API. Cette présentation vous propose de balayer ces sujets et quelques autres, afin de faire un bilan de la sécurité en Java 17.
 
 ## Charles Sabourdin
 
@@ -50,6 +50,6 @@ Plusieurs éléments de sécurité ont évolué en Java 17, et vont continuer à
 
 Investi depuis longtemps dans l'informatique, Linuxiens, Javaiste et viscéralement DevOps-ien, Charles Sabourdin est architecte indépendant et JUG Leader du ParisJUG de 2013 à 2020. Il reprend du service en 2022, pour continuer à partager avec la communauté.
 
-Il est consultant auprès de grands projets, en charge de problématiques d'architecture, de sécurité et de production. Il travaille sur de nombreux sujets ayant tous un but commun : l'amélioration du processus de delivery et de l'expérience utilisateur.
+Il est consultant auprès de grands projets, en charge de problématiques d'architecture, de sécurité et de production. Il travaille sur de nombreux sujets ayant tous un but en commun : l'amélioration du processus de delivery et de l'expérience utilisateur.
 
-En 2021, il co-ecrit un livre sur la haute-disponibilité (Kubernetes) et se focalise sur les operators kubernetes.
+En 2021, il co-écrit un livre sur la haute-disponibilité (Kubernetes) et se focalise sur les operators kubernetes.
