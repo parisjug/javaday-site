@@ -46,10 +46,31 @@ En plus de plusieurs nouveautés syntaxiques très intéressantes, Java 17 appor
 
 ### Charles Sabourdin
 
-![Charles Sabourdin](images/speakers/charles-sabourdin.png)
+![Charles Sabourdin](images/speakers/charles-sabourdin.jpg)
 
 Investi depuis longtemps dans l'informatique, Linuxiens, Javaiste et viscéralement DevOps-ien, Charles Sabourdin est architecte indépendant, Jug Leader du ParisJUG de 2013 à 2020. Il reprend du service en 2022, pour continuer à partager avec la communauté.
 
 Il est régulièrement chargé de problématiques d'architecture, de sécurité et de production. Il travaille sur de nombreux sujets tous ayant un but commun: l'amélioration du processus de delivery et l'expérience utilisateur.
 
-En 2021, il co-ecrit un livre sur la haute-disponibilité (Kubernetes) et se focalise sur les operators kubernetes.
+En 2021, il co-ecrit un livre ur la haute-disponibilité (Kubernetes) et se focalise sur les operators kubernetes.
+
+
+
+## Remèdes aux oomkill, warm-ups, et lenteurs pour des conteneurs JVM
+
+Mes conteneurs JVM sont en prod, oups ils se font oomkill, oups le démarrage traîne en longueur, oups ils sont lent en permanence. Nous avons vécu ces situations.
+Ces problèmes émergent parce qu'un conteneur est par nature un milieu restreint. Sa configuration a un impact sur le process Java cependant ce process a lui aussi des besoins pour fonctionner.
+Il y a un espace entre la heap Java et le RSS : c'est la mémoire off-heap et elle se décompose en plusieurs zones. À quoi servent-elles ? Comment les prendre en compte ? La configuration du CPU impacte la JVM sur divers aspects : Quelles sont les influences entre le GC et le CPU ? Que choisir entre la rapidité ou la consommation CPU au démarrage ?
+Au cours de cette session nous verrons comment diagnostiquer, comprendre et remédier à ces problèmes.
+
+### Brice Dutheil
+
+![Brice Dutheil](images/speakers/Brice_Dutheil_red.jpg)
+
+Ingénieur logiciel senior Java chez Datadog, Depuis 15 ans j'exploite la JVM en tant que développeur de libraries (notamment en ayant été le 2ème contributeur principal de Mockito), en tant que consommateur de libraries en tant qu'ops (configuration et tuning de JVM sur du Docker, k8s, helm, cpu quota, oomkill, GCs, JFR, async-profiler, pmap). Ayant survécu à l'immobilisme de JEE, je surveille et promeut avec engouement le travail des ingénieurs du JDK (ZGC, Shenendoah, Loom, Panama, Valhalla, CRaC, Leyden...) ainsi que les avancés de l'écosystème Java (GraalVM, etc).
+
+### Jean-Philippe Bempel
+
+![Jean-Philippe Bempel](images/speakers/jean-philippe-bempel.jpg)
+
+Développeur passionné par les performances, les runtimes (JVM, CLR) et adepte de Mechanical Sympathy, Jean-Philippe Bempel a plus de 8 ans d'expérience dans les systèmes de trading low latency. Après avoir optimisé les resources de larges clusters (2000+ noeuds) chez Criteo, Il a intégré l'équipe Profiling de Datadog et contribue à Java Mission Control.
