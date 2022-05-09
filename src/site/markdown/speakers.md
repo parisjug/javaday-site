@@ -74,3 +74,22 @@ Ingénieur logiciel senior Java chez Datadog, Depuis 15 ans j'exploite la JVM en
 ![Jean-Philippe Bempel](images/speakers/jean-philippe-bempel.jpg)
 
 Développeur passionné par les performances, les runtimes (JVM, CLR) et adepte de Mechanical Sympathy, Jean-Philippe Bempel a plus de 8 ans d'expérience dans les systèmes de trading low latency. Après avoir optimisé les resources de larges clusters (2000+ noeuds) chez Criteo, Il a intégré l'équipe Profiling de Datadog et contribue à Java Mission Control.
+
+
+
+
+## Valhalla: Vers de nouveaux generics universels et specialisables
+
+Dans le cadre du projet de l'OpenJDK Valhalla, nous allons introduire une nouvelle sorte de classe à Java (nommée "value class") qui permet de manipuler des objets directement sans pointeur.
+
+Ce nouveau type d'objet pose un léger problème technique: ils ne marche pas avec les types paramétrés de Java, les fameux generics, tout comme les types primitifs d'ailleurs, qui sont eux aussi manipulés sans pointeur.
+
+Dans cette présentation, je vous propose de regarder de plus près quels cela pose exactement et comment nous nous proposons de les résoudre dans la machine virtuelle Java.
+
+La cerise sur le gâteau est que si on se débrouille bien, la VM devrait aussi pouvoir supporter les `ArrayList<int>`.
+
+### Rémi Forax
+
+![Rémi Forax](images/speakers/Remi-Forax_red.jpg)
+
+Java Plombier, Maître de Conférence, Virtual Machine Whisperer, martyrise ses pauvres étudiants, complexifie Java en étant expert pour les JSR 292, 335 et 376, développe des librariries et langage dynamiques open source utilisés ou pas.
