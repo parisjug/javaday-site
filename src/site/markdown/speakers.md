@@ -90,6 +90,6 @@ La cerise sur le gâteau est que si on se débrouille bien, la VM devrait aussi 
 
 ### Rémi Forax
 
-![Rémi Forax](images/speakers/Remi-Forax_red.jpg)
+![Rémi Forax](images/speakers/Remi-Forax.jpg)
 
 Java Plombier, Maître de Conférence, Virtual Machine Whisperer, martyrise ses pauvres étudiants, complexifie Java en étant expert pour les JSR 292, 335 et 376, développe des librariries et langage dynamiques open source utilisés ou pas.
