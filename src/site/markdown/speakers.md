@@ -93,3 +93,17 @@ La cerise sur le gâteau est que si on se débrouille bien, la VM devrait aussi 
 ![Rémi Forax](images/speakers/Remi-Forax.jpg)
 
 Java Plombier, Maître de Conférence, Virtual Machine Whisperer, martyrise ses pauvres étudiants, complexifie Java en étant expert pour les JSR 292, 335 et 376, développe des librariries et langage dynamiques open source utilisés ou pas.
+
+
+## De Maven 3 à Maven 5
+
+Après plus de 10 ans de bons et loyaux services, il va être temps de dire au revoir à Maven 3 et bonjour à Maven 5 : pourquoi un tel saut ?
+Et comment cela va-t'il se passer avec des initiatives telles que wrapper, daemon, build cache et autres moins connus ?
+
+### Hervé Boutemy
+
+![Hervé Boutemy](images/speakers/Herve-Boutemy.jpg)
+
+Hervé est Committer Maven depuis 2007, Maven PMC Chair de 2014 à 2016. Il est membre de la Fondation Apache depuis 2011, Apache Community Development, actuel VP Apache Attic. 
+
+
