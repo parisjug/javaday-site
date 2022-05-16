@@ -2,8 +2,6 @@
 
 [L'accueil](index.html) | [Le programme](schedule.html) | [Les orateurs](speakers.html) | **S'enregistrer** | [L'équipe](the-team.html) | [Le lieu](lieu.md)
 
-Vous pouvez prendre vos places au tarif préférentiel *blind bird*, valide jusqu'à ce que nous publions l'agenda de la journée. 
-
 Chaque entrée comprend l'accès complet à la conférence, les pauses café ainsi que le déjeuner servi dans l'espace de la conférence.
 
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/bjpc/evenements/paris-jug-s-java-day/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
