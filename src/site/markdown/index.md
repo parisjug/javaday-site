@@ -8,6 +8,21 @@ Le Paris JUG a le plaisir de vous inviter **le 22 juin 2022** à une journée de
 
 Cette journée de veille technologique et de rencontres avec les meilleures personnalités de la communauté francophone est organisée dans un cadre de verdure aux portes de Paris : Le centre des congrès du Jardin d’Acclimatation. 
 
+| Horaires | Sessions                                                                                                                              |
+|----------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 9h15     | Accueil des participants                                                                                                              |
+| 10h00    | [Jean-Michel Doudoux : Java en 2022 : profiter de Java 17](speakers.md#jean-michel)                                                   |
+| 10h50    | [Jean-Philippe Bempel et Brice Dutheil : Remèdes aux oomkill, warm-ups, et lenteurs pour des conteneurs JVM](speakers.md#brice-jean-philippe) |
+| 11h40    | [Charles Sabourdin : Sécurité en Java 17 : les nouveautés passées et à venir](speakers.md#charles)                                    |
+| 12h30    | Déjeuner et café                                                                                                                      |
+| 14h00    | [Cédric Champeau : Micronaut AOT pour optimiser vos applications pour le JIT et GraalVM](speakers.md#cedric)                          |
+| 14h50    | [Hervé Boutemy : De Maven 3 à Maven 5](speakers.md#herve)                                                                             |
+| 15h35    | Pause café                                                                                                                            |
+| 16h00    | [Rémi Forax : Valhalla: Vers de nouveaux generics universels et specialisables](speakers.md#remi)                                     |
+| 16h50    | Panel de discussions avec les speakers                                                                                                |
+| 17h30    | Fin de la journée                                                                                                                     |
+
+
 Vous pouvez retrouver la liste complète de nos intervenants sur notre page [Les orateurs](speakers.html). 
 
 ![Le Jardin d'Acclimatation](images/01_panorama.jpg)
