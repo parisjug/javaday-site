@@ -1,6 +1,6 @@
 # JavaDay au Paris JUG: Le futur de Java en 2022
 
-**L'accueil** | [Le programme](schedule.html) | [Les orateurs](speakers.html) | [S'enregistrer](register.html) | [L'équipe](the-team.html) | [Le lieu](lieu.md)
+**L'accueil** | [Le programme](schedule.html) | [Les orateurs](speakers.html) | [hackergarten](hackergarten.html) | [S'enregistrer](register.html) | [L'équipe](the-team.html) | [Le lieu](lieu.md)
 
 ![Paris JUG](images/LogoBJCP20150500x0200.png) ![JavaDay](images/Javaday_red.png)
 

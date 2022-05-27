@@ -1,15 +1,15 @@
 # Les Orateurs
 
-[L'accueil](index.html) | [Le programme](schedule.html) | **Les orateurs** | [S'enregistrer](register.html) | [L'équipe](the-team.html) | [Le lieu](lieu.md)
+[L'accueil](index.html) | [Le programme](schedule.html) | **Les orateurs** | [hackergarten](hackergarten.html) | [S'enregistrer](register.html) | [L'équipe](the-team.html) | [Le lieu](lieu.md)
 
 Vous pouvez retrouver la liste complète de nos speakers sur cette page. Vous pouvez [réserver vos places sur cette page](https://www.helloasso.com/associations/bjpc/evenements/paris-jug-s-java-day).
 
 Vous pouvez également vous inscrire par la formation professionnelle, grâce à [OXiane](https://www.oxiane.com/), notre partenaire formation pour cet événement.
 
-Les détails du parcours pédagogique se trouvent ici : https://www.oxiane.com/parcours-pedagogique-javaday-2022/. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
+Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/parcours-pedagogique-javaday-2022/>. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
 
+<a id="jean-michel">&nbsp;</a>
 
-<a id="jean-michel">&nbsp;</a> 
 ## Java en 2022 : profiter de Java 17 par Jean-Michel Doudoux
 
 ### Résumé
@@ -25,6 +25,7 @@ L'objectif de cette présentation est de revenir sur certaines de ces nombreuses
 Passionné par le développement de logiciels et par la veille technologique, je possède une longue expérience, en SSII/ESN et personnelle, dans l'écriture d'applications avec différents langages. Je suis actuellement le CTO d'Oxiane Luxembourg et du groupe Oxiane. Utilisant Java depuis sa version 1.0, j'aime partager ma passion pour cette plateforme et son écosystème notamment en me consacrant, depuis une vingtaine d'années, à la rédaction de deux tutoriels, intitulés "Développons en Java", diffusés sous licence GNU FDL. Ce travail m'a permis d'être nommé Java Champion. Je suis également un des cofondateurs du Lorraine JUG.
 
 <a id="cedric">&nbsp;</a>
+
 ## Micronaut AOT pour optimiser vos applications pour le JIT et GraalVM par Cédric Champeau
 
 ### Résumé
@@ -40,8 +41,8 @@ En particulier, Micronaut n'utilise pas de _reflection_: ceci le rend particuli�
 
 Cédric Champeau est développeur Java chez Oracle Labs, dans l'équipe Micronaut et GraalVM. Il travaille notamment sur les problématiques d'optimisation de la productivité développeur (aussi bien interne que pour les utilisateurs de Micronaut) et maintient notamment les plugins Gradle et Maven de Micronaut et de GraalVM native-image. Avant celà, Cédric a passé plusieurs années à travailler chez Gradle Inc sur l'outil de build open source Gradle, où il a notamment contribué à de nombreuses améliorations en termes de performance, gestion des dépendances et sécurité. Enfin, Cédric a longtemps été un des contributeurs principaux du langage Groovy, pour lequel il a notamment développé le compilateur statique et des outils d'optimisations à compile time (AST transformations).
 
-
 <a id="charles">&nbsp;</a>
+
 ## Sécurité en Java 17 : les nouveautés passées et à venir
 
 En plus de plusieurs nouveautés syntaxiques très intéressantes, Java 17 apporte quelques évolutions dans le domaine de la sécurité, que l'on se propose de couvrir dans cette présentation. Notre bon vieux `SecurityManager` est déprécié, et va être retiré. Quelques éléments sont ajoutés en cryptographie. La déserialization voit sa sécurité améliorée avec les `Record` et les filtres de déserialization. Les types scellés sont introduits, qui permettent de contrôler la façon dont on peut étendre une hiérarchie d'interfaces et de classes.
@@ -56,8 +57,8 @@ Il est régulièrement chargé de problématiques d'architecture, de sécurité 
 
 En 2021, il co-ecrit un livre ur la haute-disponibilité (Kubernetes) et se focalise sur les operators kubernetes.
 
-
 <a id="brice-jean-philippe">&nbsp;</a>
+
 ## Remèdes aux oomkill, warm-ups, et lenteurs pour des conteneurs JVM
 
 Mes conteneurs JVM sont en prod, oups ils se font oomkill, oups le démarrage traîne en longueur, oups ils sont lent en permanence. Nous avons vécu ces situations.
@@ -77,9 +78,8 @@ Ingénieur logiciel senior Java chez Datadog, Depuis 15 ans j'exploite la JVM en
 
 Développeur passionné par les performances, les runtimes (JVM, CLR) et adepte de Mechanical Sympathy, Jean-Philippe Bempel a plus de 8 ans d'expérience dans les systèmes de trading low latency. Après avoir optimisé les resources de larges clusters (2000+ noeuds) chez Criteo, Il a intégré l'équipe Profiling de Datadog et contribue à Java Mission Control.
 
-
-
 <a id="remi">&nbsp;</a>
+
 ## Valhalla: Vers de nouveaux generics universels et specialisables
 
 Dans le cadre du projet de l'OpenJDK Valhalla, nous allons introduire une nouvelle sorte de classe à Java (nommée "value class") qui permet de manipuler des objets directement sans pointeur.
@@ -96,8 +96,8 @@ La cerise sur le gâteau est que si on se débrouille bien, la VM devrait aussi 
 
 Java Plombier, Maître de Conférence, Virtual Machine Whisperer, martyrise ses pauvres étudiants, complexifie Java en étant expert pour les JSR 292, 335 et 376, développe des librariries et langage dynamiques open source utilisés ou pas.
 
-
 <a id="herve">&nbsp;</a>
+
 ## De Maven 3 à Maven 5
 
 Après plus de 10 ans de bons et loyaux services, il va être temps de dire au revoir à Maven 3 et bonjour à Maven 5 : pourquoi un tel saut ?
@@ -107,6 +107,4 @@ Et comment cela va-t'il se passer avec des initiatives telles que wrapper, daemo
 
 ![Hervé Boutemy](images/speakers/Herve-Boutemy.jpg)
 
-Hervé est Committer Maven depuis 2007, Maven PMC Chair de 2014 à 2016. Il est membre de la Fondation Apache depuis 2011, Apache Community Development, actuel VP Apache Attic. 
-
-
+Hervé est Committer Maven depuis 2007, Maven PMC Chair de 2014 à 2016. Il est membre de la Fondation Apache depuis 2011, Apache Community Development, actuel VP Apache Attic.
