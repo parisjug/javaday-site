@@ -70,12 +70,13 @@
         <div class="inner">
             <header>
 			<h1>Paris JUG - Javaday</h1>
-            <h2>Le 22 Juin 2020</h2>
+            <h2>01 Juin 2023</h2>
 		</div>
     </section>
     
     
 <div id="main">
+    
     <div id="contentBox">
         $bodyContent
     </div>
@@ -101,7 +102,9 @@
     </footer>
     
       <!-- Scripts -->
-			<script src="js/jquery.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/custom-elements/1.4.2/custom-elements.min.js"></script>
+			<script defer src='js/wc-carousel-lite.js'></script>
+            <script src="js/jquery.min.js"></script>
 			<script src="js/jquery.scrolly.min.js"></script>
 			<script src="js/jquery.scrollex.min.js"></script>
 			<script src="js/skel.min.js"></script>
