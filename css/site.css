@@ -16,3 +16,16 @@
     a:visited {
         color: #59b84d;
     }
+
+/* Carrouselle css */
+wc-carousel-lite {
+  height: 200px;
+  width: 50%;
+  margin: auto;
+  display: flex;
+}
+
+.item {
+  margin-left: 20px;
+  margin-right: 20px;
+}    
