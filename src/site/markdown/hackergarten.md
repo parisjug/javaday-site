@@ -6,7 +6,7 @@ Le Hackergarten, c'est quoi ?
 
 Le Hackergarten se réunit tous les derniers mardis du mois. L'objectif est double :
 
-• pour les participant-e-s, c'est l'occasion de contribuer régulièrement à des projets qu'elle ou il utilise en temps normal, voire de participer à la création d'un nouveau projet en donnant un peu de son temps
+• pour les personnes participantes, c'est l'occasion de contribuer régulièrement à des projets qu'elle ou il utilise en temps normal, voire de participer à la création d'un nouveau projet en donnant un peu de son temps
 
 • pour les committers et/ou porteur-se-s d'idées, c'est l'occasion de préparer un backlog de tâches à difficulté variable et accompagner des nouveaux/nouvelles venu-e-s sur le projet
 
