@@ -16,8 +16,6 @@ Si vous cherchez de quoi motiver votre cercle de connaissances, voici un peu d'e
 
 • <https://www.meetup.com/fr-FR/Paris-Hackergarten//>
 
-• <https://blog.xebia.fr/2016/09/20/cest-la-rentree-de-lopen-source-et-du-hackergarten/>
-
 • <https://fbiville.github.io/2016/09/20/Pourquoi-venir-au-Hackergarten.html>
 
 Déroulé du programme
@@ -33,7 +31,3 @@ Matériel requis
 À savoir
 
 Tous les niveaux sont acceptés
-
-*Merci à notre partenaire media [InfoQ.fr](https://www.infoq.com/fr/) pour leur soutien dans l'organisation de cet événement.*
-
-[![InfoQ FR](images/InfoQFR.png)](https://www.infoq.com/fr/)
