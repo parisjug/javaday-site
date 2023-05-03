@@ -2,13 +2,15 @@
 
 <!-- MACRO{snippet|debug=false|ignoreDownloadError=false|verbatim=false|file=src/site/resources/fragments/breadcrum.snippet.html} -->
 
+Le Paris JUG a le plaisir de vous inviter **le 01 juin 2023** à une journée de présentations sur le thème : Java en 2023 et au dela
+
 **Ouverture des Places "early bird"**
 
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/bjpc/evenements/paris-jug-s-java-day-2023/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
 
-Pour la formation professionnelle, vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
+Vous pouvez également vous inscrire par la formation professionnelle, grâce à [OXiane](https://www.oxiane.com/), notre partenaire formation pour cet événement.
 
-Le Paris JUG a le plaisir de vous inviter **le 01 juin 2023** à une journée de présentations sur le thème : Java en 2023 et au dela
+Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/parcours-pedagogique-javaday-2023/>. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
 
 
 ## Le JavaDay 2023
@@ -31,7 +33,6 @@ Les thèmes auquel nous reflechissons pour le moment:
 - Jakarta EE
 - Nouveautés Spring
 - Java et cloud native
-- les nouveautés des GC
 - les Thread virtuels
 
 ![La Terrasse de la Grande Verrière](images/05_terrasse-02_red.jpg)
