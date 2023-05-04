@@ -9,19 +9,19 @@ Vous pouvez également vous inscrire par la formation professionnelle, grâce à
 Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/parcours-pedagogique-javaday-2023/>. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
 
 
-| Horaires | Sessions                                                               |
-|----------|------------------------------------------------------------------------|
-| 9h15     | Accueil des participants                                               |
-| 10h00    | [Jean-Michel Doudoux : En route vers Java 21](speakers.md#jean-michel) |
-| 10h50    |                                                                        |
-| 11h40    |                                                                        |
-| 12h30    | Déjeuner et café                                                       |
-| 14h00    |                                                                        |
-| 14h50    |                                                                        |
-| 15h35    | Pause café                                                             |
-| 16h00    |                                                                        |
-| 16h50    | Panel de discussions avec les speakers                                 |
-| 17h30    | Fin de la journée                                                      |
+| Horaires | Sessions                                                                                          |
+|----------|---------------------------------------------------------------------------------------------------|
+| 9h15     | Accueil des participants                                                                          |
+| 10h00    | [Jean-Michel Doudoux : En route vers Java 21](speakers.md#jean-michel)                            |
+| 10h50    | [Antoine Sabot-Durant : Les nouveautés de Jakarta EE 10 et Microprofile 6.0](speakers.md#antoine) |
+| 11h40    |                                                                                                   |
+| 12h30    | Déjeuner et café                                                                                  |
+| 14h00    |                                                                                                   |
+| 14h50    |                                                                                                   |
+| 15h35    | Pause café                                                                                        |
+| 16h00    |                                                                                                   |
+| 16h50    | Panel de discussions avec les speakers                                                            |
+| 17h30    | Fin de la journée                                                                                 |
 
 Le tarif early bird est encore en cours, n'attendez pas pour vous inscire !
 
