@@ -14,12 +14,12 @@ Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/
 | 9h15     | Accueil des participants                                                                          |
 | 10h00    | [Jean-Michel Doudoux : En route vers Java 21](speakers.md#jean-michel)                            |
 | 10h50    | [Antoine Sabot-Durant : Les nouveautés de Jakarta EE 10 et Microprofile 6.0](speakers.md#antoine) |
-| 11h40    |                                                                                                   |
+| 11h40    | Non encore annoncé                                                                                |
 | 12h30    | Déjeuner et café                                                                                  |
-| 14h00    |                                                                                                   |
-| 14h50    |                                                                                                   |
+| 14h00    | Non encore annoncé                                                                                |
+| 14h50    | Non encore annoncé                                                                                |
 | 15h35    | Pause café                                                                                        |
-| 16h00    |                                                                                                   |
+| 16h00    | Non encore annoncé                                                                                |
 | 16h50    | Panel de discussions avec les speakers                                                            |
 | 17h30    | Fin de la journée                                                                                 |
 
