@@ -37,3 +37,20 @@ Dans cette présentation nous passerons en revues les principales nouveautés de
 ![Antoine Sabot-Durant](images/speakers/Antoine-Sabot-Durant.jpg)
 
 Antoine est un Java Champion et l'ancien spec lead de Jakarta EE CDI. Il a fait partie de l'équipe de lancement de Quarkus chez Red Hat et à travaillé sur des specs MicroProfile majeures comme Fault Tolerance ou Health Check. Aujourd'hui, Antoine est architecte et expert technique chez SCIAM. Il pilote des projets complexes en utilisant en grande partie les technologies qu'il a contribué à mette au point.
+
+
+<a id="brian">&nbsp;</a>
+
+## Spring Boot 3, GraalVM et images natives
+
+### Résumé
+
+Comment compiler une application Spring en code natif et profiter d’un temps de démarrage rapide et d’une consommation mémoire réduite ?
+Pendant cette session, nous vous présenterons le moteur AOT qui permet aux applications Spring d’adopter la technologie GraalVM Native images.
+Comment procéder, quelles sont les limitations, comment participer à la communauté GraalVM ? Nous évoquerons tous ces points en utilisant une application exemple.
+
+### Brian Clozel
+
+![Brian Clozel](images/speakers/Brian-Clozel.jpg)
+
+Brian est membre de l'équipe Spring chez VMware. Il travaille sur le Spring Framework, sur Spring GraphQL et sur Spring Boot.
