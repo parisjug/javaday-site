@@ -8,6 +8,7 @@ Vous pouvez également vous inscrire par la formation professionnelle, grâce à
 
 Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/parcours-pedagogique-javaday-2023/>. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
 
+
 <a id="jean-michel">&nbsp;</a>
 
 ## En route vers Java 21 par Jean-Michel Doudoux
@@ -21,6 +22,7 @@ En attendant la publication de Java 21, la prochaine version diffusée en septem
 ![Jean-Michel Doudoux](images/speakers/jmdoudoux.jpg)
 
 Passionné par le développement de logiciels et par la veille technologique, je possède une longue expérience, en SSII/ESN et personnelle, dans l'écriture d'applications avec différents langages. Je suis actuellement Senior tech lead pour la société Sciam. Utilisant Java depuis sa version 1.0, j'aime partager ma passion pour cette plateforme et son écosystème notamment en me consacrant, depuis presque vingt années, à la rédaction de deux tutoriels, intitulés "Développons en Java", diffusés sous licence GNU FDL. Ce travail m'a permis d'être nommé Java Champion. Je suis également un des cofondateurs du Lorraine JUG.
+
 
 <a id="antoine">&nbsp;</a>
 
@@ -54,7 +56,6 @@ Comment procéder, quelles sont les limitations, comment participer à la commun
 ![Brian Clozel](images/speakers/Brian-Clozel.jpg)
 
 Brian est membre de l'équipe Spring chez VMware. Il travaille sur le Spring Framework, sur Spring GraphQL et sur Spring Boot.
-
 
 
 <a id="lilian">&nbsp;</a>
