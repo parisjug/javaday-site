@@ -54,3 +54,22 @@ Comment procéder, quelles sont les limitations, comment participer à la commun
 ![Brian Clozel](images/speakers/Brian-Clozel.jpg)
 
 Brian est membre de l'équipe Spring chez VMware. Il travaille sur le Spring Framework, sur Spring GraphQL et sur Spring Boot.
+
+
+
+<a id="lilian">&nbsp;</a>
+
+## CRaC vs GraalVM, pour un démarrage rapide
+
+### Résumé
+
+Dans les cas d'usages modernes (Kubernetes, Serverless), tout le monde sait que le point noir de la JVM est son démarrage.
+Depuis quelques années, GraalVM s'impose comme rémède permettant ainsi un démarrage rapide via une compilation native. Cela apporte néanmoins certaines contraintes.
+Une nouvelle solution apparait dans le paysage de la JVM. C'est CRaC pour Coordinated Restore at Checkpoint. Regardons ensemble comment cela fonctionne et les avantages.
+
+### Lilian Benoit
+
+![Lilian Benoit](images/speakers/Lilian-Benoit.png)
+
+Lilian est Tech Leader dans une ESN Bordelaise. il est passionné par l'informatique depuis bien plus longtemps. Il aime travailler sur la plateforme Java (Java SE et Jakarta EE), d'autant plus sur sa distribution de prédilection : Debian.
+Il adore apprendre et partager ses connaissances. C'est comme cela qui s'est rapproché du BordeauxJUG dont il en est JUG Leader depuis 2016. L'objectif du Bordeaux JUG est de promouvoir Java à travers des soirées/conférences mensuelles autour de la plateforme Java.

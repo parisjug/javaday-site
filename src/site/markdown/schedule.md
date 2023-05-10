@@ -16,7 +16,7 @@ Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/
 | 10h50    | [Antoine Sabot-Durant : Les nouveautés de Jakarta EE 10 et Microprofile 6.0](speakers.md#antoine) |
 | 11h40    | [Brian Clozel : Spring Boot 3, GraalVM et images natives](speakers.md#brian)                      |
 | 12h30    | Déjeuner et café                                                                                  |
-| 14h00    | Non encore annoncé                                                                                |
+| 14h00    | [Lilian Benoit : CRaC vs GraalVM, pour un démarrage rapide](speakers.md#lilian)                   |
 | 14h50    | Non encore annoncé                                                                                |
 | 15h35    | Pause café                                                                                        |
 | 16h00    | Non encore annoncé                                                                                |
