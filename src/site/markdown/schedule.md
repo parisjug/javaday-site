@@ -2,12 +2,14 @@
 
 <!-- MACRO{snippet|debug=false|ignoreDownloadError=false|verbatim=false|file=src/site/resources/fragments/breadcrum.snippet.html} -->
 
-Vous pouvez [réserver vos places sur cette page](https://www.helloasso.com/associations/bjpc/evenements/paris-jug-s-java-day-2023).
+Vous
+pouvez [réserver vos places sur cette page](https://www.helloasso.com/associations/bjpc/evenements/paris-jug-s-java-day-2023).
 
-Vous pouvez également vous inscrire par la formation professionnelle, grâce à [OXiane](https://www.oxiane.com/), notre partenaire formation pour cet événement.
+Vous pouvez également vous inscrire par la formation professionnelle, grâce à [OXiane](https://www.oxiane.com/), notre
+partenaire formation pour cet événement.
 
-Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/parcours-pedagogique-javaday-2023/>. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
-
+Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/parcours-pedagogique-javaday-2023/>. Vous
+pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
 
 | Horaires | Sessions                                                                                          |
 |----------|---------------------------------------------------------------------------------------------------|
@@ -17,7 +19,7 @@ Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/
 | 11h40    | [Brian Clozel : Spring Boot 3, GraalVM et images natives](speakers.md#brian)                      |
 | 12h30    | Déjeuner et café                                                                                  |
 | 14h00    | [Lilian Benoit : CRaC vs GraalVM, pour un démarrage rapide](speakers.md#lilian)                   |
-| 14h50    | Non encore annoncé                                                                                |
+| 14h50    | [Hervé Boutémy : Software Supply Chain, SBOM et signature avec Maven](speakers.md#herve)          |
 | 15h35    | Pause café                                                                                        |
 | 16h00    | Non encore annoncé                                                                                |
 | 16h50    | Panel de discussions avec les speakers                                                            |

@@ -74,3 +74,21 @@ Une nouvelle solution apparait dans le paysage de la JVM. C'est CRaC pour Coordi
 
 Lilian est Tech Leader dans une ESN Bordelaise. il est passionné par l'informatique depuis bien plus longtemps. Il aime travailler sur la plateforme Java (Java SE et Jakarta EE), d'autant plus sur sa distribution de prédilection : Debian.
 Il adore apprendre et partager ses connaissances. C'est comme cela qui s'est rapproché du BordeauxJUG dont il en est JUG Leader depuis 2016. L'objectif du Bordeaux JUG est de promouvoir Java à travers des soirées/conférences mensuelles autour de la plateforme Java.
+
+
+<a id="herve">&nbsp;</a>
+
+## Software Supply Chain, SBOM et signature avec Maven
+
+### Résumé
+
+Ghost, Dirty cow, Log4Shell, Heart Bleed ont tous fait frémir nos managers et occupé pas mal de nos nuits d'astreinte. Cela a eu suffisamment d'importance pour que les Etats Unis imposent la livraison d'un SBOM avec nos logiciels pour renforcer la maîtrise de la "Software Supply Chain".
+Et les attaques sur cette Supply Chain relancent la nécessité de la signature, qui évidemment ne peut pas se faire à l'ancienne comme au siècle dernier.
+Comme souvent, il ne s'agit pas tant de technologie que d'habitude et d'hygiène que l'outillage doit faciliter.
+Parcourons ensemble ces questions et comment Maven peut vous faire entrer dans le cercle vertueux.
+
+### Hervé Boutémy
+
+![Hervé Boutémy](images/speakers/Herve-Boutemy.png)
+
+Hervé est Committer Maven depuis 2007, Maven PMC Chair de 2014 à 2016. Il est membre de la Fondation Apache depuis 2011, Apache Community Development, actuel VP Apache Attic.
