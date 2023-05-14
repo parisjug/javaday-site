@@ -92,3 +92,18 @@ Parcourons ensemble ces questions et comment Maven peut vous faire entrer dans l
 ![Hervé Boutémy](images/speakers/Herve-Boutemy.png)
 
 Hervé est Committer Maven depuis 2007, Maven PMC Chair de 2014 à 2016. Il est membre de la Fondation Apache depuis 2011, Apache Community Development, actuel VP Apache Attic.
+
+
+<a id="remi">&nbsp;</a>
+
+## La programmation concurrente structurée : un scoop sur les scopes
+
+### Résumé
+
+Loom en preview, c'est fini ; les threads virtuels débarquent en tant que fonctionnalité officielle de Java 21, la prochaine LTS. Les performances des API asynchrones sans utiliser de Mono, Flux et autres Multi. Comme d'habitude, dès qu'on a une grosse fonctionnalité en Java, tout le monde regarde de près le code. Là, on se rend compte qu'en fait, l'API des Executor n'est pas si bien que cela, surtout maintenant qu'on a des threads virtuels. Et si on imaginait une nouvelle API synchrone pour faire du calcul asynchrone en utilisant les principes de la programmation concurrente structurée. Dans ce talk, après une rapide explication de ce qu'est un thread virtuel, j'expliquerai quel est le principe d'une API concurrente structurée, l'API prévue en Java 21 et les améliorations prévues pour Java 22. 
+
+### Rémi Forax
+
+![Rémi Forax](images/speakers/Remi-Forax.jpg)
+
+Hervé est Committer Maven depuis 2007, Maven PMC Chair de 2014 à 2016. Il est membre de la Fondation Apache depuis 2011, Apache Community Development, actuel VP Apache Attic.
