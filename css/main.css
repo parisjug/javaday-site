@@ -17,6 +17,8 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
+		align-self: center;
+		text-align: center;
 	}
 
 	ul, li  {
