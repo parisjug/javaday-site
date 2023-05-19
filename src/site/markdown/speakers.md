@@ -89,7 +89,7 @@ Parcourons ensemble ces questions et comment Maven peut vous faire entrer dans l
 
 ### Hervé Boutémy
 
-![Hervé Boutémy](images/speakers/Herve-Boutemy.png)
+![Hervé Boutémy](images/speakers/Herve-Boutemy.jpg)
 
 Hervé est Committer Maven depuis 2007, Maven PMC Chair de 2014 à 2016. Il est membre de la Fondation Apache depuis 2011, Apache Community Development, actuel VP Apache Attic.
 
