@@ -2,7 +2,7 @@
 
 [L'accueil](index.html) | [Le programme](schedule.html) | [Les orateurs](speakers.html) | [hackergarten](hackergarten.html) | [S'enregistrer](register.html) | **L'équipe** | [Le lieu](lieu.md)
 
-JavaDay au Paris JUG vous est proposé par l'équipe du Paris JUG.
+Java Day au Paris JUG vous est proposé par l'équipe du Paris JUG.
 
 *Charles Sabourdin* Charles Sabourdin est un ancien du Paris JUG : il y est présent depuis plus de 10 ans. Charles a toujours été passioné par la communauté. Il est actuellement président de l'association BJPC qui organise les soirées du Paris JUG. Il était à l'origine responsable de la mise en ligne des vidéos de nos soirées, ce qui recouvrait l'enregistrement, le montage et la mise en ligne des vidéos. Il y a 12 ans, ce n'était pas une mince affaire. Il est architecte indépendant, principalement sur les technologies Java, Linux and Kubernetes avec un brin de Sécurité. Il est également speaker régulier dans différents meet-up et conférences.
 

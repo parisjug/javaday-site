@@ -1,4 +1,4 @@
-# JavaDay au Paris JUG: Java en 2023 et au dela
+# Java Day au Paris JUG: Java en 2023 et au dela
 
 <!-- MACRO{snippet|debug=false|ignoreDownloadError=false|verbatim=false|file=src/site/resources/fragments/breadcrum.snippet.html} -->
 
@@ -13,7 +13,7 @@ Vous pouvez également vous inscrire par la formation professionnelle, grâce à
 Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/parcours-pedagogique-javaday-2023/>. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
 
 
-## Le JavaDay 2023
+## Le Paris JUG Java Day 2023
 
 
 ![Le Jardin d'Acclimatation](images/01_panorama.jpg)
@@ -37,4 +37,4 @@ Les thèmes auquel nous reflechissons pour le moment:
 
 ![La Terrasse de la Grande Verrière](images/05_terrasse-02_red.jpg)
 
-*Le logo JavaDay&trade; est utilisé avec l'autorisation d'Oracle Corp.*
+*Le logo Java Day&trade; est utilisé avec l'autorisation d'Oracle Corp.*
