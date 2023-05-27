@@ -1,8 +1,8 @@
-# JavaDay au Paris JUG: Le futur de Java en 2022
+# Java Day au Paris JUG: Le futur de Java en 2022
 
 **L'accueil** | [Le programme](schedule.html) | [Les orateurs](speakers.html) | [hackergarten](hackergarten.html) | [S'enregistrer](register.html) | [L'équipe](the-team.html) | [Le lieu](lieu.md)
 
-![Paris JUG](images/LogoBJCP20150500x0200.png) ![JavaDay](images/Javaday_red.png)
+![Paris JUG](images/LogoBJCP20150500x0200.png) ![Java Day](images/Javaday_red.png)
 
 Le Paris JUG a le plaisir de vous inviter **le 22 juin 2022** à une journée de présentations sur le thème : Le futur de Java en 2022.
 
@@ -59,4 +59,4 @@ Les détails du parcours pédagogique se trouvent ici : https://www.oxiane.com/p
 
 [![InfoQ FR](images/InfoQFR.png)](https://www.infoq.com/fr/)
 
-*Le logo JavaDay&trade; est utilisé avec l'autorisation d'Oracle Corp.*
+*Le logo Java Day&trade; est utilisé avec l'autorisation d'Oracle Corp.*
