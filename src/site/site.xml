@@ -9,7 +9,7 @@
     <body>
 
         <!-- -->
-        <menu name="JavaDay" ref="/index.html">
+        <menu name="Java Day" ref="/index.html">
             <item name="Le programme" href="schedule.html"/>
             <item name="Les orateurs" href="speakers.html"/>
             <item name="S'enregistrer" href="register.html"/>
