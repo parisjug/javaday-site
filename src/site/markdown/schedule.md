@@ -27,7 +27,5 @@ Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/
 
 Le tarif early bird est encore en cours, n'attendez pas pour vous inscire !
 
-<!--
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/bjpc/evenements/paris-jug-s-java-day-2023/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
--->
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/bjpc/evenements/paris-jug-s-java-day-2024/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
 

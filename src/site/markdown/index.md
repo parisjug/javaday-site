@@ -6,7 +6,7 @@ Pour la troisième année consécutive, le Paris JUG a le plaisir de vous invite
 
 **Ouverture des Places "early bird"**
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/bjpc/evenements/paris-jug-s-java-day-2023/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/bjpc/evenements/paris-jug-s-java-day-2024/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
 
 <!--
 Vous pouvez également vous inscrire par la formation professionnelle, grâce à [OXiane](https://www.oxiane.com/), notre partenaire formation pour cet événement.
@@ -27,13 +27,6 @@ Trois sessions le matin et trois l’après-midi. Nous terminerons par un panel 
 - 16h50 - 17h30 : panel de clôture avec les speakers.
 
 ![Le Théâtre Rouge](images/02_theatre-rouge_red.jpg)
-
-Les thèmes auquel nous reflechissons pour le moment:
-
-- Jakarta EE
-- Nouveautés Spring
-- Java et cloud native
-- les Thread virtuels
 
 ![La Terrasse de la Grande Verrière](images/05_terrasse-02_red.jpg)
 
