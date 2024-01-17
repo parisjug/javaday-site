@@ -74,9 +74,7 @@ Cette présentation vous montrera comment utiliser les LLMs en Java sans avoir b
 
 ![Guillaume Laforge](images/speakers/Guillaume-Laforge.jpg)
 
-Les Large Language Models (LLM) sont une nouvelle technologie puissante qui peut être utilisée pour une variété de tâches, notamment la génération de texte, la classification, la traduction ou la rédaction de différents types de contenu créatif. Cependant, les LLMs peuvent être difficiles à utiliser, en particulier pour les développeurs qui ne sont pas expérimentés en Python, la “lingua franca” de l'IA. Alors, qu'en est-il des développeurs Java ? Comment pouvons-nous tirer parti de l'IA générative ?
-
-Cette présentation vous montrera comment utiliser les LLMs en Java sans avoir besoin de Python. Nous utiliserons l'API PaLM, fournie par les services Google Cloud Vertex AI, pour effectuer une variété de tâches, telles que la recherche dans de la documentation, la génération d'histoires pour enfants, la synthèse du contenu, l'extraction de mots-clés ou d'entités, et plus encore. Nous découvrirons à l'occasion l'orchestrateur d'API LangChain4J qui permet de grandement simplifier l'implémentation de tels cas d'usage.
+Guillaume Laforge est Developer Advocate chez Google et se focalise en particulier sur l'offre Google Cloud. Et la nuit, il enfile sa casquette de Java Champion, d'Apache Groovy ou de Cast Codeur !
 
 
 
@@ -98,5 +96,5 @@ Cette présentation vous montrera comment utiliser les LLMs en Java sans avoir b
 
 ![Rémi Forax](images/speakers/Remi-Forax.jpg)
 
-Java Plombier, Maître de Conférence, Virtual Machine Whisperer, martyrise ses pauvres étudiants, complexifie Java en étant expert pour les JSR 292, 335 et 376, développe des librariries et langage dynamiques open source utilisés ou pas.
+Java Plombier, Maître de Conférence, Virtual Machine Whisperer, martyrise ses pauvres étudiants, complexifie Java en étant expert pour les JSR 292, 335 et 376, développe des librairies et langage dynamiques open source utilisés ou pas.
 
