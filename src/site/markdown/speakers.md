@@ -77,6 +77,26 @@ Cette présentation vous montrera comment utiliser les LLMs en Java sans avoir b
 Guillaume Laforge est Developer Advocate chez Google et se focalise en particulier sur l'offre Google Cloud. Et la nuit, il enfile sa casquette de Java Champion, d'Apache Groovy ou de Cast Codeur !
 
 
+<a id="jean-francois">&nbsp;</a>
+
+## Loom sur les serveurs d'application
+
+<!--
+### Résumé
+
+### Jean-François James
+-->
+
+![Jean-François James](images/speakers/Jean-Francois-James.jpg)
+
+Après 35 ans d’expérience, je reste passionné par les enjeux d’architecture logicielle et de développement. Ma carrière va du mainframe au cloud, et Java a été mon plus fidèle compagnon de parcours. Je travaille chez Worldline, le leader européen du paiement, où j’ai 2 casquettes:
+
+Animateur de la communauté d’experts qui réunit 300 collaborateurs (et bientôt d’avantage avec l’arrivée de Ingenico)
+Responsable de l’entité Global Software Architecture.
+C’est toujours un plaisir de partager et challenger mes connaissances à travers des conférences, des présentations, des articles de blog et des contributions Open Source.
+
+
+
 
 <!--
 ### Résumé
