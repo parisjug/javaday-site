@@ -11,19 +11,19 @@ Vous pouvez également vous inscrire par la formation professionnelle, grâce à
 Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/parcours-pedagogique-javaday-2023/>. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
 -->
 
-| Horaires | Sessions                                                                                                |
-|----------|---------------------------------------------------------------------------------------------------------|
-| 9h15     | Accueil et petit déjeuner à la Grande Verrière                                                          |
-| 10h00    | [Jean-Michel Doudoux : String Templates en Java 21, 22 et au-delà](speakers.md#jean-michel)             |
-| 10h50    | [Julien Dubois : Architeture Hexagonale avec JHipster Lite](speakers.md#julien)                         |
-| 11h40    | [Jean-Philippe Bempel : Generational ZGC](speakers.md#jean-philippe)                                    |
-| 12h30    | Déjeuner et café                                                                                        |
-| 14h00    | [Guillaume Larforge : Intelligence Artificielle et Large Language Model en Java](speakers.md#guillaume) |
-| 14h50    | [Jean-François James : Loom sur les serveurs d'application](speakers.md#jean-francois)                  |
-| 15h35    | Pause café                                                                                              |
-| 16h00    | [Rémi Forax : les Gatherers dans l'API Stream](speakers.md#remi)                                        |
-| 16h50    | Panel de discussions avec les speakers                                                                  |
-| 17h30    | Fin de la journée                                                                                       |
+| Horaires | Sessions                                                                                                          |
+|----------|-------------------------------------------------------------------------------------------------------------------|
+| 9h15     | Accueil et petit déjeuner à la Grande Verrière                                                                    |
+| 10h00    | [Jean-Michel Doudoux : Les chaînes de "\u0061" à """ Z""" et de String à StringTemplate](speakers.md#jean-michel) |
+| 10h50    | [Julien Dubois : Architeture Hexagonale avec JHipster Lite](speakers.md#julien)                                   |
+| 11h40    | [Jean-Philippe Bempel : Generational ZGC](speakers.md#jean-philippe)                                              |
+| 12h30    | Déjeuner et café                                                                                                  |
+| 14h00    | [Guillaume Larforge : Intelligence Artificielle et Large Language Model en Java](speakers.md#guillaume)           |
+| 14h50    | [Jean-François James : Loom sur les serveurs d'application](speakers.md#jean-francois)                            |
+| 15h35    | Pause café                                                                                                        |
+| 16h00    | [Rémi Forax : les Gatherers dans l'API Stream](speakers.md#remi)                                                  |
+| 16h50    | Panel de discussions avec les speakers                                                                            |
+| 17h30    | Fin de la journée                                                                                                 |
 
 Le tarif early bird est encore en cours, n'attendez pas pour vous inscire !
 
