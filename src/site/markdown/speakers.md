@@ -12,7 +12,7 @@ Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/
 
 <a id="jean-michel">&nbsp;</a>
 
-## String Templates en Java 21, 22 et au-delà par Jean-Michel Doudoux
+## Les chaînes de "\u0061" à """ Z""" et de String à StringTemplate par Jean-Michel Doudoux
 
 <!--
 ### Résumé
