@@ -95,6 +95,10 @@ Animateur de la communauté d’experts qui réunit 300 collaborateurs (et bient
 Responsable de l’entité Global Software Architecture.
 C’est toujours un plaisir de partager et challenger mes connaissances à travers des conférences, des présentations, des articles de blog et des contributions Open Source.
 
+![David Pequegnot](images/speakers/David-Pequegnot.jpg)
+
+David est développeur Java et Python au sein de Worldline depuis 2012. Touche-à-tout, il accompagne les équipes sur les problématiques de performance dans les différentes phases de leurs projets, du build à la production.
+
 
 
 
