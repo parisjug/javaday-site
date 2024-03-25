@@ -19,7 +19,7 @@ Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/
 | 11h40    | [Jean-Philippe Bempel : Generational ZGC](speakers.md#jean-philippe)                                              |
 | 12h30    | Déjeuner et café                                                                                                  |
 | 14h00    | [Guillaume Larforge : Intelligence Artificielle et Large Language Model en Java](speakers.md#guillaume)           |
-| 14h50    | [Jean-François James : Loom sur les serveurs d'application](speakers.md#jean-francois)                            |
+| 14h50    | [Jean-François James et David Pequegnot : Loom sur les serveurs d'application](speakers.md#jean-francois)         |
 | 15h35    | Pause café                                                                                                        |
 | 16h00    | [Rémi Forax : les Gatherers dans l'API Stream](speakers.md#remi)                                                  |
 | 16h50    | Panel de discussions avec les speakers                                                                            |
