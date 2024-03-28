@@ -79,7 +79,7 @@ Guillaume Laforge est Developer Advocate chez Google et se focalise en particuli
 
 <a id="jean-francois">&nbsp;</a>
 
-## Loom sur les serveurs d'application
+## Loom sur les serveurs d'application par Jean-François James et David Pequegnot
 
 <!--
 ### Résumé
@@ -110,7 +110,7 @@ David est développeur Java et Python au sein de Worldline depuis 2012. Touche-�
 
 <a id="remi">&nbsp;</a>
 
-## les Gatherers dans l'API Stream par Rémi Forax
+## Les Gatherers dans l'API Stream par Rémi Forax
 
 <!--
 ### Résumé
