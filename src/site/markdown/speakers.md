@@ -38,7 +38,7 @@ L'en-tête de chaque objet Java en mémoire utilise 96 octets, par fois même 12
 
 ### Charles Sabourdin 
 
-[Charles Sabourdin](images/speakers/Charles-Sabourdin.jpg)
+![Charles Sabourdin](images/speakers/Charles-Sabourdin.jpg)
 
 
 
