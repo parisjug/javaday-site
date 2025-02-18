@@ -4,21 +4,20 @@
 
 Vous pouvez retrouver la liste complète de nos speakers sur cette page. Vous pouvez [réserver vos places sur cette page](https://www.helloasso.com/associations/bjpc/evenements/paris-jug-s-java-day-2023).
 
-<!--
-Vous pouvez également vous inscrire par la formation professionnelle, grâce à [OXiane](https://www.oxiane.com/), notre partenaire formation pour cet événement.
-
-Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/parcours-pedagogique-javaday-2023/>. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
--->
-
 <a id="jean-michel">&nbsp;</a>
 
-## Les chaînes de "\u0061" à """ Z""" et de String à StringTemplate par Jean-Michel Doudoux
+## Du JDK 21 au JDK 25 par Jean-Michel Doudoux
 
-<!--
 ### Résumé
 
+La prochaine version LTS du JDK sera diffusée en septembre prochain. Cette présentation brosse une revue des principales fonctionnalités proposées dans cette version 25 LTS du JDK :
+- nouvelles issues de projets d’OpenJDK (Amber, Loom, Panama, Leyden)
+- dans API de Java Core qui ne font pas l'objet de JEP
+- dans la JVM HotSpot
+- relatives à la sécurité
+- et celles dépréciées ou supprimées
+
 ### Jean-Michel Doudoux
--->
 
 ![Jean-Michel Doudoux](images/speakers/jmdoudoux.jpg)
 
