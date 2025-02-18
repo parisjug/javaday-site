@@ -15,6 +15,13 @@ Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/
 
 ### Résumé
 
+La prochaine version LTS du JDK sera diffusée en septembre prochain. Cette présentation brosse une revue des principales fonctionnalités proposées dans cette version 25 LTS du JDK :
+- nouvelles issues de projets d’OpenJDK (Amber, Loom, Panama, Leyden)
+- dans API de Java Core qui ne font pas l'objet de JEP
+- dans la JVM HotSpot
+- relatives à la sécurité
+- et celles dépréciées ou supprimées
+
 ### Jean-Michel Doudoux
 
 ![Jean-Michel Doudoux](images/speakers/jmdoudoux.jpg)
@@ -23,9 +30,11 @@ Passionné par le développement de logiciels et par la veille technologique, je
 
 
 <a id="charles-sabourding">&nbsp;</a>
-## JDK Lilliput
+## Réduisez l'en-tête des objets Java en mémoire avec Java Lilliput
 
 ### Résumé
+
+L'en-tête de chaque objet Java en mémoire utilise 96 octets, par fois même 128, ce qui, pour une instance d'Integer qui transporte un entier sur 32 bits n'est pas négligeable. Le véhicule est beaucoup plus lourd que le chargement, ce qui n'est pas très efficace ! Cette consommation importante a un impact non seulement sur la mémoire qu'une application Java a besoin, mais également sur les traitements, car elle augmente le travail des garbage collectors. L'objet du projet Lilliput est de réduire cet en-tête à 64 octets, en révisant les mécanismes de gestion des objets en mémoire. L'objectif est de réduire l'empreinte mémoire et d'alléger le travail des garbage collectors, ce qui aura un impact sur la consommation du temps CPU. Nous parlerons pointeurs, adressage d'objets, fonctionnement des garbage collectors, allocation mémoire, organisation des objets en mémoire, et dresserons l'état des lieux de ce projet.
 
 ### Charles Sabourdin 
 
@@ -47,10 +56,7 @@ Agorapulse a initialement bâti sa plateforme sur le framework Grails, qui perme
 Au cours des 20 dernières années, Jean-Vincent a principalement travaillé autour des technologies Java et Web, d’abord en contribuant au développement d’XWiki un wiki Open-Source écrit en Java, puis chez Agorapulse ou l’écosystème Java est omniprésent.
 
 <a id="emmanuel-clement">&nbsp;</a>
-## Quarkus
-
-### Résumé
-
+## Sujet Quarkus
 
 ### Emmanuel Bernard
 
