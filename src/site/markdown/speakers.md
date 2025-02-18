@@ -43,7 +43,7 @@ L'en-tête de chaque objet Java en mémoire utilise 96 octets, par fois même 12
 
 
 <a id="jean-vincent">&nbsp;</a>
-## De Grails et Groovy à Micronaut etJava, carnet de bord d’une longue migration
+## De Grails et Groovy à Micronaut et Java, carnet de bord d’une longue migration
 
 ### Résumé
 

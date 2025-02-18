@@ -14,19 +14,19 @@ d'informations : [formation@oxiane.com](mailto:formation@oxiane.com).
 Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/parcours-pedagogique-javaday-2023/>. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
 -->
 
-| Horaires | Sessions                                                              |
-|----------|-----------------------------------------------------------------------|
-| 9h15     | Accueil et petit déjeuner à la Grande Verrière                        |
-| 10h00    | [Jean-Michel Doudoux](speakers.md#jean-michel)                        |
-| 10h50    | [Charles Sabourdin](speakers.md#charles)                              |
-| 11h40    | [Jean-Vincent Drean](speakers.md#jean-vincent)                        |
-| 12h30    | Déjeuner et café                                                      |
-| 14h00    | [Emmanuel Bernard et Clément Escoffier](speakers.md#emmanuel-clement) |
-| 14h50    | [Ana-Maria Mihalceanu](speakers.md#ana-maria)                         |
-| 15h35    | Pause café                                                            |
-| 16h00    | [Rémi Forax](speakers.md#remi)                                        |
-| 16h50    | Panel de discussions avec les speakers                                |
-| 17h30    | Fin de la journée                                                     |
+| Horaires | Sessions                                                                                                                        |
+|----------|---------------------------------------------------------------------------------------------------------------------------------|
+| 9h15     | Accueil et petit déjeuner à la Grande Verrière                                                                                  |
+| 10h00    | [Jean-Michel Doudoux : Du JDK 21 au JDK 25](speakers.md#jean-michel)                                                            |
+| 10h50    | [Charles Sabourdin : Réduisez l'en-tête des objets Java en mémoire avec Java Lilliput](speakers.md#charles)                     |
+| 11h40    | [Jean-Vincent Drean : De Grails et Groovy à Micronaut et Java, carnet de bord d’une longue migration](speakers.md#jean-vincent) |
+| 12h30    | Déjeuner et café                                                                                                                |
+| 14h00    | [Emmanuel Bernard et Clément Escoffier : sujet Quarkus](speakers.md#emmanuel-clement)                                           |
+| 14h50    | [Ana-Maria Mihalceanu : Sécuriser les Applications Java Contre les Menaces Quantiques](speakers.md#ana-maria)                   |
+| 15h35    | Pause café                                                                                                                      |
+| 16h00    | [Rémi Forax : Les 3 paradigmes d'organisation du code en Java et Claude](speakers.md#remi)                                      |
+| 16h50    | Panel de discussions avec les speakers                                                                                          |
+| 17h30    | Fin de la journée                                                                                                               |
 
 Le tarif early bird est encore en cours, n'attendez pas pour vous inscire !
 
