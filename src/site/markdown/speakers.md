@@ -29,7 +29,7 @@ La prochaine version LTS du JDK sera diffusée en septembre prochain. Cette pré
 Passionné par le développement de logiciels et par la veille technologique, je possède une longue expérience, en SSII/ESN et personnelle, dans l'écriture d'applications avec différents langages. Je suis actuellement Senior tech lead pour la société Sciam. Utilisant Java depuis sa version 1.0, j'aime partager ma passion pour cette plateforme et son écosystème notamment en me consacrant, depuis presque vingt années, à la rédaction de deux tutoriels, intitulés "Développons en Java", diffusés sous licence GNU FDL. Ce travail m'a permis d'être nommé Java Champion. Je suis également un des cofondateurs du Lorraine JUG.
 
 
-<a id="charles-sabourding">&nbsp;</a>
+<a id="charles">&nbsp;</a>
 ## Réduisez l'en-tête des objets Java en mémoire avec Java Lilliput
 
 ### Résumé

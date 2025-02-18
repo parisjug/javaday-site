@@ -1,4 +1,4 @@
-# Java Day au Paris JUG: Java en 2024 et au dela
+# Java Day au Paris JUG: Java en 2025 et au dela
 
 <!-- MACRO{snippet|debug=false|ignoreDownloadError=false|verbatim=false|file=src/site/resources/fragments/breadcrum.snippet.html} -->
 
