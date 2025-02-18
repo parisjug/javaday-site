@@ -14,19 +14,19 @@ d'informations : [formation@oxiane.com](mailto:formation@oxiane.com).
 Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/parcours-pedagogique-javaday-2023/>. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
 -->
 
-| Horaires | Sessions                                                                                                  |
-|----------|-----------------------------------------------------------------------------------------------------------|
-| 9h15     | Accueil et petit déjeuner à la Grande Verrière                                                            |
-| 10h00    | [Jean-Michel Doudoux : Du JDK 21 au JDK 25](speakers.md#jean-michel)                                      |
-| 10h50    | [Julien Dubois : Architeture Hexagonale avec JHipster Lite](speakers.md#julien)                           |
-| 11h40    | [Jean-Philippe Bempel : Generational ZGC](speakers.md#jean-philippe)                                      |
-| 12h30    | Déjeuner et café                                                                                          |
-| 14h00    | [Guillaume Larforge : Intelligence Artificielle et Large Language Model en Java](speakers.md#guillaume)   |
-| 14h50    | [Jean-François James et David Pequegnot : Loom sur les serveurs d'application](speakers.md#jean-francois) |
-| 15h35    | Pause café                                                                                                |
-| 16h00    | [Rémi Forax : les Gatherers dans l'API Stream](speakers.md#remi)                                          |
-| 16h50    | Panel de discussions avec les speakers                                                                    |
-| 17h30    | Fin de la journée                                                                                         |
+| Horaires | Sessions                                       |
+|----------|------------------------------------------------|
+| 9h15     | Accueil et petit déjeuner à la Grande Verrière |
+| 10h00    | [Jean-Michel Doudoux]()                        |
+| 10h50    | [Charles Sabourdin]()                          |
+| 11h40    | [Jean-Vincent Drean]()                         |
+| 12h30    | Déjeuner et café                               |
+| 14h00    | [Emmanuel Bernard]() et [Clément Escoffier]()  |
+| 14h50    | [Ana-Maria Mihalceanu]()                       |
+| 15h35    | Pause café                                     |
+| 16h00    | [Rémi Forax]()                                 |
+| 16h50    | Panel de discussions avec les speakers         |
+| 17h30    | Fin de la journée                              |
 
 Le tarif early bird est encore en cours, n'attendez pas pour vous inscire !
 

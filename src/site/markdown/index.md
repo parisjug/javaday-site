@@ -18,7 +18,7 @@ Vous pouvez également vous inscrire par la formation professionnelle, grâce à
 
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/bjpc/evenements/paris-jug-s-java-day-2024/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
 
-## Le Paris JUG Java Day 2024
+## Le Paris JUG Java Day 2025
 
 ![Le Jardin d'Acclimatation](images/01_panorama.jpg)
 
