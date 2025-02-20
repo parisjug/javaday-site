@@ -16,7 +16,7 @@ Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/
 ### Résumé
 
 La prochaine version LTS du JDK sera diffusée en septembre prochain. Cette présentation brosse une revue des principales fonctionnalités proposées dans cette version 25 LTS du JDK :
-- nouvelles issues de projets d’OpenJDK (Amber, Loom, Panama, Leyden)
+- nouvelles issues de projets d'OpenJDK (Amber, Loom, Panama, Leyden)
 - dans API de Java Core qui ne font pas l'objet de JEP
 - dans la JVM HotSpot
 - relatives à la sécurité
@@ -43,20 +43,29 @@ L'en-tête de chaque objet Java en mémoire utilise 96 octets, par fois même 12
 
 
 <a id="jean-vincent">&nbsp;</a>
-## De Grails et Groovy à Micronaut et Java, carnet de bord d’une longue migration
+## De Grails et Groovy à Micronaut et Java, carnet de bord d'une longue migration
 
 ### Résumé
 
-Agorapulse a initialement bâti sa plateforme sur le framework Grails, qui permettait un développement rapide avec une petite équipe. Avec la croissances des équipes, l’essor des single-page-apps et des architectures microservices, ses limites sont devenues évidentes. Le lancement de Micronaut puis l’intégration de Micronaut dans la version 4 du framework Grails ont marqué un tournant, permettant une transition progressive depuis Grails. De nos premières fonctions AWS Lambda utilisant Micronaut 1.0.0.M1 en 2018 à l’extinction de nos dernières applications Grails en 2025, le récit de 7 ans d’une migration très progressive.
+Agorapulse a initialement bâti sa plateforme sur le framework Grails, qui permettait un développement rapide avec une petite équipe. Avec la croissances des équipes, l'essor des single-page-apps et des architectures microservices, ses limites sont devenues évidentes. Le lancement de Micronaut puis l'intégration de Micronaut dans la version 4 du framework Grails ont marqué un tournant, permettant une transition progressive depuis Grails. De nos premières fonctions AWS Lambda utilisant Micronaut 1.0.0.M1 en 2018 à l'extinction de nos dernières applications Grails en 2025, le récit de 7 ans d'une migration très progressive.
 
 ### Jean-Vincent Drean
 
 ![Jean-Vincent Drean](images/speakers/Jean-Vincent-Drean.jpg)
 
-Au cours des 20 dernières années, Jean-Vincent a principalement travaillé autour des technologies Java et Web, d’abord en contribuant au développement d’XWiki un wiki Open-Source écrit en Java, puis chez Agorapulse ou l’écosystème Java est omniprésent.
+Au cours des 20 dernières années, Jean-Vincent a principalement travaillé autour des technologies Java et Web, d'abord en contribuant au développement d'XWiki un wiki Open-Source écrit en Java, puis chez Agorapulse ou l'écosystème Java est omniprésent.
 
 <a id="emmanuel-clement">&nbsp;</a>
-## Sujet Quarkus
+## Quarkus: philosophie, pragmatisme et innovation
+
+Clément Escoffier et Emmanuel Bernard, co-lead et ex-co-lead du projet Quarkus, vous présenteront les dernières évolutions et futures innovations de Quarkus. Après une brève description de la philosophie et des principes fondamentaux qui guident ce framework, nous explorerons les avancées récentes et la manière dont ces innovations émergent.
+
+Nous aborderons des sujets clés tels que :
+ 
+- Le nouveau modèle d'exécution avec les threads virtuels
+- L'intégration de l'intelligence artificielle dans les applications
+- Les évolutions en matière d'observabilité
+- Les améliorations de l'expérience développeur
 
 ### Emmanuel Bernard
 

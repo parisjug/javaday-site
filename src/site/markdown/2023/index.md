@@ -18,7 +18,7 @@ Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/
 
 ![Le Jardin d'Acclimatation](images/01_panorama.jpg)
 
-Trois sessions le matin et trois l’après-midi. Nous terminerons par un panel avec les speakers.
+Trois sessions le matin et trois l'après-midi. Nous terminerons par un panel avec les speakers.
 
 - 9h15 : accueil des participants
 - 10h00 - 12h30 : 3 sessions au Théâtre Rouge.

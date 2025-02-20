@@ -22,7 +22,7 @@ Vous pouvez également vous inscrire par la formation professionnelle, grâce à
 
 ![Le Jardin d'Acclimatation](images/01_panorama.jpg)
 
-Trois sessions le matin et trois l’après-midi. Nous terminerons par un panel avec les speakers.
+Trois sessions le matin et trois l'après-midi. Nous terminerons par un panel avec les speakers.
 
 - 9h15 : accueil des participants autour d'un petit déjeuner.
 - 10h00 - 12h30 : 3 sessions au Théâtre Rouge.

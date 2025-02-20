@@ -15,7 +15,7 @@ Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/
 
 ### Résumé
 
-En attendant la publication de Java 21, la prochaine version diffusée en septembre de cette année, et pour en donner quelques aperçus, cette présentation brosse une revue détaillée des nouveautés qui devraient être proposées dans cette future version LTS de Java, issues des projets Amber, Loom et Panama d’OpenJDK.
+En attendant la publication de Java 21, la prochaine version diffusée en septembre de cette année, et pour en donner quelques aperçus, cette présentation brosse une revue détaillée des nouveautés qui devraient être proposées dans cette future version LTS de Java, issues des projets Amber, Loom et Panama d'OpenJDK.
 
 ### Jean-Michel Doudoux
 
@@ -30,8 +30,8 @@ Passionné par le développement de logiciels et par la veille technologique, je
 
 ### Résumé
 
-La dernière mouture de Jakarta EE est arrivée en fin d’année dernière. Sortie enfin de la migration Java EE vers Jakarta EE, cette nouvelle édition apporte de réelles nouveautés utilisables telles quelles ou dans votre stack préférée comme MicroProfile, Quarkus ou même Spring (!).
-Au même moment Microprofile 6.0 est également arrivé dans un repository près de chez vous. Cette nouvelle édition s’appuie directement sur Jakarta EE 10 pour simplifier son socle et proposer de nouvelles fonctionnalités.
+La dernière mouture de Jakarta EE est arrivée en fin d'année dernière. Sortie enfin de la migration Java EE vers Jakarta EE, cette nouvelle édition apporte de réelles nouveautés utilisables telles quelles ou dans votre stack préférée comme MicroProfile, Quarkus ou même Spring (!).
+Au même moment Microprofile 6.0 est également arrivé dans un repository près de chez vous. Cette nouvelle édition s'appuie directement sur Jakarta EE 10 pour simplifier son socle et proposer de nouvelles fonctionnalités.
 Dans cette présentation nous passerons en revues les principales nouveautés de ces 2 stacks majeures. Puis non évoquerons les évolutions présentent et à venir sur les frameworks ou produits qui les implémentent.
 
 ### Antoine Sabot-Durand
@@ -47,8 +47,8 @@ Antoine est un Java Champion et l'ancien spec lead de Jakarta EE CDI. Il a fait 
 
 ### Résumé
 
-Comment compiler une application Spring en code natif et profiter d’un temps de démarrage rapide et d’une consommation mémoire réduite ?
-Pendant cette session, nous vous présenterons le moteur AOT qui permet aux applications Spring d’adopter la technologie GraalVM Native images.
+Comment compiler une application Spring en code natif et profiter d'un temps de démarrage rapide et d'une consommation mémoire réduite ?
+Pendant cette session, nous vous présenterons le moteur AOT qui permet aux applications Spring d'adopter la technologie GraalVM Native images.
 Comment procéder, quelles sont les limitations, comment participer à la communauté GraalVM ? Nous évoquerons tous ces points en utilisant une application exemple.
 
 ### Brian Clozel

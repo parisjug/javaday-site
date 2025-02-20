@@ -6,7 +6,7 @@
 
 Le Paris JUG a le plaisir de vous inviter **le 22 juin 2022** à une journée de présentations sur le thème : Le futur de Java en 2022.
 
-Cette journée de veille technologique et de rencontres avec les meilleures personnalités de la communauté francophone est organisée dans un cadre de verdure aux portes de Paris : Le centre des congrès du Jardin d’Acclimatation. 
+Cette journée de veille technologique et de rencontres avec les meilleures personnalités de la communauté francophone est organisée dans un cadre de verdure aux portes de Paris : Le centre des congrès du Jardin d'Acclimatation. 
 
 | Horaires | Sessions                                                                                                                              |
 |----------|---------------------------------------------------------------------------------------------------------------------------------------|
@@ -27,7 +27,7 @@ Vous pouvez retrouver la liste complète de nos intervenants sur notre page [Les
 
 ![Le Jardin d'Acclimatation](images/01_panorama.jpg)
 
-Trois sessions le matin et trois l’après-midi. Nous terminerons  par un panel avec les speakers.
+Trois sessions le matin et trois l'après-midi. Nous terminerons  par un panel avec les speakers.
 
 - 9h15 : accueil des participants
 - 10h00 - 12h30 : 3 sessions au Théâtre Rouge.
@@ -47,7 +47,7 @@ Les thèmes que nous vous proposons :
 
 ![La Terrasse de la Grande Verrière](images/05_terrasse-02_red.jpg)
 
-Parmi  les speakers que nous avons invités : Cédric Champeaux, Jean-Philippe Bempel, Jean-Michel Doudoux, Rémi Forax. L’agenda précis sera publié dans les prochains jours. 
+Parmi  les speakers que nous avons invités : Cédric Champeaux, Jean-Philippe Bempel, Jean-Michel Doudoux, Rémi Forax. L'agenda précis sera publié dans les prochains jours. 
 
 Nous sommes en train d'annoncer les speakers présents, un tous les deux jours. L'agenda complet sera publié le 9 Mai prochain. En attendant vous pouvez déjà [réserver vos places à tarif réduit blind bird](https://www.helloasso.com/associations/bjpc/evenements/paris-jug-s-java-day). Ce tarif réduit prendra fin lorsque notre agenda complet sera publié.
 
