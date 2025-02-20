@@ -58,6 +58,8 @@ Au cours des 20 dernières années, Jean-Vincent a principalement travaillé aut
 <a id="emmanuel-clement">&nbsp;</a>
 ## Quarkus: philosophie, pragmatisme et innovation
 
+### Résumé
+
 Clément Escoffier et Emmanuel Bernard, co-lead et ex-co-lead du projet Quarkus, vous présenteront les dernières évolutions et futures innovations de Quarkus. Après une brève description de la philosophie et des principes fondamentaux qui guident ce framework, nous explorerons les avancées récentes et la manière dont ces innovations émergent.
 
 Nous aborderons des sujets clés tels que :
