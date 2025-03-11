@@ -5,14 +5,15 @@
 Vous pouvez dès à
 présent [réserver vos places sur cette page](https://www.helloasso.com/associations/bjpc/evenements/paris-jug-s-java-day-2023).
 
+<!--
 Les inscriptions via la formation professionnelle seront bientôt possible, grâce
 à [OXiane Institut](https://www.oxiane.com/), notre partenaire formation pour cet événement. Vous pouvez prendre contact
 avec [OXiane Institut](https://www.oxiane.com/) à cette adresse pour plus
 d'informations : [formation@oxiane.com](mailto:formation@oxiane.com).
-
-<!--
-Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/parcours-pedagogique-javaday-2023/>. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
 -->
+
+Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/parcours-pedagogique-javaday-2023/>. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
+
 
 | Horaires | Sessions                                                                                                                        |
 |----------|---------------------------------------------------------------------------------------------------------------------------------|
