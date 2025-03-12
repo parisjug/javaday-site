@@ -41,7 +41,7 @@ L'en-tête de chaque objet Java en mémoire utilise 96 octets, par fois même 12
 ![Charles Sabourdin](images/speakers/Charles-Sabourdin.jpg)
 
 
-
+<!--
 <a id="jean-vincent">&nbsp;</a>
 ## De Grails et Groovy à Micronaut et Java, carnet de bord d'une longue migration
 
@@ -54,6 +54,8 @@ Agorapulse a initialement bâti sa plateforme sur le framework Grails, qui perme
 ![Jean-Vincent Drean](images/speakers/Jean-Vincent-Drean.jpg)
 
 Au cours des 20 dernières années, Jean-Vincent a principalement travaillé autour des technologies Java et Web, d'abord en contribuant au développement d'XWiki un wiki Open-Source écrit en Java, puis chez Agorapulse ou l'écosystème Java est omniprésent.
+--> 
+
 
 <a id="emmanuel-clement">&nbsp;</a>
 ## Quarkus: philosophie, pragmatisme et innovation
