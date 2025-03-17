@@ -7,12 +7,12 @@ présent [réserver vos places sur cette page](https://www.helloasso.com/associa
 
 <!--
 Les inscriptions via la formation professionnelle seront bientôt possible, grâce
-à [OXiane Institut](https://www.oxiane.com/), notre partenaire formation pour cet événement. Vous pouvez prendre contact
-avec [OXiane Institut](https://www.oxiane.com/) à cette adresse pour plus
+à [OXiane Institut](https://oxiane-institut.com/), notre partenaire formation pour cet événement. Vous pouvez prendre contact
+avec [OXiane Institut](https://oxiane-institut.com/) à cette adresse pour plus
 d'informations : [formation@oxiane.com](mailto:formation@oxiane.com).
 -->
 
-Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/parcours-pedagogique-javaday-2023/>. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
+Les détails du parcours pédagogique se trouvent ici : <https://oxiane-institut.com/parcours-pedagogique-javaday-2023/>. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
 
 
 | Horaires | Sessions                                                                                                      |

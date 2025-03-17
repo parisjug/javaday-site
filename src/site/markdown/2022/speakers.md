@@ -4,9 +4,9 @@
 
 Vous pouvez retrouver la liste complète de nos speakers sur cette page. Vous pouvez [réserver vos places sur cette page](https://www.helloasso.com/associations/bjpc/evenements/paris-jug-s-java-day).
 
-Vous pouvez également vous inscrire par la formation professionnelle, grâce à [OXiane](https://www.oxiane.com/), notre partenaire formation pour cet événement.
+Vous pouvez également vous inscrire par la formation professionnelle, grâce à [OXiane](https://oxiane-institut.com/), notre partenaire formation pour cet événement.
 
-Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/parcours-pedagogique-javaday-2022/>. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
+Les détails du parcours pédagogique se trouvent ici : <https://oxiane-institut.com/parcours-pedagogique-javaday-2022/>. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
 
 <a id="jean-michel">&nbsp;</a>
 

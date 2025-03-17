@@ -8,6 +8,6 @@ Chaque entrée comprend l'accès complet à la conférence, les pauses café ain
 
 ## Formation Professionnelle
 
-Vous pouvez vous inscrire par la formation professionnelle, grâce à [OXiane](https://www.oxiane.com/), notre partenaire formation pour cet événement.
+Vous pouvez vous inscrire par la formation professionnelle, grâce à [OXiane](https://oxiane-institut.com/), notre partenaire formation pour cet événement.
 
-Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/parcours-pedagogique-javaday-2022/>. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
+Les détails du parcours pédagogique se trouvent ici : <https://oxiane-institut.com/parcours-pedagogique-javaday-2022/>. Vous pouvez prendre contact avec OXiane à l'adresse suivante : [formation@oxiane.com](mailto:formation@oxiane.com).
