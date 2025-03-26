@@ -20,7 +20,7 @@ Les détails du parcours pédagogique se trouvent ici : <https://www.oxiane.com/
 | 9h15     | Accueil et petit déjeuner à la Grande Verrière                                                                |
 | 10h00    | [Jean-Michel Doudoux : Du JDK 21 au JDK 25](speakers.md#jean-michel)                                          |
 | 10h50    | [Charles Sabourdin : Réduisez l'en-tête des objets Java en mémoire avec Java Lilliput](speakers.md#charles)   |
-| 11h40    | TBD                                                                                                           |
+| 11h40    | [Cédric Champeau : Intégrer Java et Python facilement avec Micronaut GraalPy](speakers.md#cedric)             |
 | 12h30    | Déjeuner et café                                                                                              |
 | 14h00    | [Emmanuel Bernard et Clément Escoffier : sujet Quarkus](speakers.md#emmanuel-clement)                         |
 | 14h50    | [Ana-Maria Mihalceanu : Sécuriser les Applications Java Contre les Menaces Quantiques](speakers.md#ana-maria) |

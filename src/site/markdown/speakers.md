@@ -41,20 +41,20 @@ L'en-tête de chaque objet Java en mémoire utilise 96 octets, par fois même 12
 ![Charles Sabourdin](images/speakers/Charles-Sabourdin.jpg)
 
 
-<!--
-<a id="jean-vincent">&nbsp;</a>
-## De Grails et Groovy à Micronaut et Java, carnet de bord d'une longue migration
+<a id="cedric">&nbsp;</a>
+## Intégrer Java et Python facilement avec Micronaut GraalPy
 
 ### Résumé
 
-Agorapulse a initialement bâti sa plateforme sur le framework Grails, qui permettait un développement rapide avec une petite équipe. Avec la croissances des équipes, l'essor des single-page-apps et des architectures microservices, ses limites sont devenues évidentes. Le lancement de Micronaut puis l'intégration de Micronaut dans la version 4 du framework Grails ont marqué un tournant, permettant une transition progressive depuis Grails. De nos premières fonctions AWS Lambda utilisant Micronaut 1.0.0.M1 en 2018 à l'extinction de nos dernières applications Grails en 2025, le récit de 7 ans d'une migration très progressive.
+Si GraalVM est particulièrement connu pour native-image qui permet de compiler une application Java sous forme de binaire natif, ce projet dispose d'autres cordes à son arc. En particulier, GraalVM est aussi une machine virtuelle polyglotte, capable de faire tourner des applications écrites dans d'autres langages sur la JVM, en bénéficiant du compilateur JIT (just-in-time).
 
-### Jean-Vincent Drean
+Parmi ces langages, Python dispose d'une place de choix. Son intégration, GraalPy, permet d'exécuter des scripts Python dans votre application Java, mais aussi d'intégrer des librairies Python populaires. Cette intégration est facilitée par une API mais aussi par des outils de builds pour Maven et Gradle. Pour rendre ceci encore plus simple, nous utiliserons Micronaut GraalPy qui propose une API de haut niveau pour définir les interfaces entre les deux langages.
 
-![Jean-Vincent Drean](images/speakers/Jean-Vincent-Drean.jpg)
+### Cédric Champeau
 
-Au cours des 20 dernières années, Jean-Vincent a principalement travaillé autour des technologies Java et Web, d'abord en contribuant au développement d'XWiki un wiki Open-Source écrit en Java, puis chez Agorapulse ou l'écosystème Java est omniprésent.
---> 
+![Cédric Champeau](images/speakers/cedric-champeau_red.jpg)
+
+Cédric Champeau est développeur Java chez Oracle Labs, dans l'équipe Micronaut et GraalVM. Il travaille notamment sur les problématiques d'optimisation de la productivité développeur (aussi bien interne que pour les utilisateurs de Micronaut) et maintient notamment les plugins Gradle et Maven de Micronaut et de GraalVM native-image. Avant celà, Cédric a passé plusieurs années à travailler chez Gradle Inc sur l'outil de build open source Gradle, où il a notamment contribué à de nombreuses améliorations en termes de performance, gestion des dépendances et sécurité. Enfin, Cédric a longtemps été un des contributeurs principaux du langage Groovy, pour lequel il a notamment développé le compilateur statique et des outils d'optimisations à compile time (AST transformations).
 
 
 <a id="emmanuel-clement">&nbsp;</a>
